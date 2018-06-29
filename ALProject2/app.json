@@ -1,0 +1,27 @@
+{
+  "id": "6ec9b33e-3261-4250-a18f-1afb23c85af6",
+  "name": "Bookshelf  1.0",
+  "publisher": "PASI",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "showMyCode": true,
+  "features": [
+    "TranslationFile"
+  ]
+ 
+}
